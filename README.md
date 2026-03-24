@@ -49,7 +49,7 @@ A governance layer for microservices covering service discovery, traffic control
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MoChengqian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MoChengqian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide=issues,contribs" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoChengqian&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </p>
 

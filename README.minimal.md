@@ -21,7 +21,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoChengqian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoChengqian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide=issues,contribs)
 
 ## Contribution Streak
 
