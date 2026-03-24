@@ -6,8 +6,8 @@
 
 - Production-first Go backend engineer
 - Focus on reliability, performance, and clean architecture
-- Blog: `YOUR_BLOG`
-- Email: `YOUR_EMAIL`
+- Writing: `兄弟,你赢了!`
+- Reach me: `2972013548@qq.com`
 
 ## Tech Stack
 

@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-  <a href="YOUR_BLOG"><img src="https://img.shields.io/badge/Blog-0f172a?style=for-the-badge&logo=readme&logoColor=7aa2f7" alt="Blog" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email" /></a>
+  <a href="https://github.com/MoChengqian"><img src="https://img.shields.io/badge/Blog-0f172a?style=for-the-badge&logo=readme&logoColor=7aa2f7" alt="Blog" /></a>
+  <a href="mailto:2972013548@qq.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=7aa2f7" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Focus-Go%20Backend%20%7C%20Systems%20Engineering-0f172a?style=for-the-badge&logo=go&logoColor=7aa2f7" alt="Focus" />
 </p>
 
@@ -17,8 +17,8 @@
 - Building production-grade services in **Go**, with a focus on **throughput, latency, and fault tolerance**
 - Comfortable with distributed systems, service governance, observability, and performance tuning
 - Open-source oriented: design clean interfaces first, scale implementation second
-- Writing: `YOUR_BLOG`
-- Reach me: `YOUR_EMAIL`
+- Writing: `兄弟,你赢了!`
+- Reach me: `2972013548@qq.com`
 
 ## Tech Stack
 
