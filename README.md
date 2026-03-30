@@ -17,7 +17,6 @@
 - Building production-grade services in **Go**, with a focus on **throughput, latency, and fault tolerance**
 - Comfortable with distributed systems, service governance, observability, and performance tuning
 - Open-source oriented: design clean interfaces first, scale implementation second
-- Writing: `兄弟,你赢了!`
 - Reach me: `2972013548@qq.com`
 
 ## Tech Stack
