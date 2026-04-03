@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>MoChengqian</h1>
+  <h1>mochengqian</h1>
   <p><code>Building platform backend systems, working toward infrastructure for model service access and governance.</code></p>
 </div>
 
@@ -19,7 +19,7 @@
 
 ## About Me
 
-- Engineer name: **MoChengqian**
+- Engineer name: **chengqian**
 - Building toward **platform / infrastructure backend**, with growing focus on **service governance, observability, reliability, and traffic control**
 - Moving from backend engineering toward **model service access and governance infrastructure**
 - Comfortable with **Go / Java**, distributed systems fundamentals, gateway-oriented design, and engineering-focused technical writing
@@ -43,7 +43,7 @@
 
 ## Featured Projects
 
-### [LLM Access Gateway](https://github.com/MoChengqian/llm-access-gateway)
+### [LLM Access Gateway](https://github.com/mochengqian/llm-access-gateway)
 An OpenAI-compatible access gateway built around model API routing, API key control, SSE streaming, and failure handling. It represents my bridge from platform backend engineering toward model service access and governance infrastructure.
 
 ### [Personal Blog](https://notion-next-iota-amber-43.vercel.app/)
@@ -53,7 +53,7 @@ A technical writing and evidence site built with NotionNext. I use it to documen
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=MoChengqian&theme=tokyonight&hide_border=true&background=00000000"
+    src="https://streak-stats.demolab.com?user=mochengqian&theme=tokyonight&hide_border=true&background=00000000"
     alt="Contribution Streak"
   />
 </p>
@@ -62,7 +62,7 @@ A technical writing and evidence site built with NotionNext. I use it to documen
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/MoChengqian/MoChengqian/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/mochengqian/mochengqian/output/github-contribution-grid-snake-dark.svg"
     alt="Contribution Snake"
   />
 </p>
