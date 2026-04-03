@@ -49,21 +49,6 @@ An OpenAI-compatible access gateway built around model API routing, API key cont
 ### [Personal Blog](https://notion-next-iota-amber-43.vercel.app/)
 A technical writing and evidence site built with NotionNext. I use it to document open-source work, gateway and governance experiments, and engineering trade-offs in a form that can be referenced in resumes and interviews.
 
-## GitHub Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=MoChengqian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide=issues,contribs&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoChengqian&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8&hide_progress=true&cache_seconds=86400"
-    alt="Top Languages"
-  />
-</p>
-
 ## Contribution Streak
 
 <p align="center">
